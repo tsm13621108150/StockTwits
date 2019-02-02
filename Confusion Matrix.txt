@@ -1,0 +1,25 @@
+
+----------------------
+Logistic Regression
+Confusion Matrix:
+245.0   126.0
+35.0   337.0
+Correct Ratio:   66.04%    90.59%
+----------------------
+Decision Tree
+Confusion Matrix:
+329.0   42.0
+9.0   363.0
+Correct Ratio:   88.68%    97.58%
+----------------------
+Random Forest
+Confusion Matrix:
+338.0   33.0
+12.0   360.0
+Correct Ratio:   91.11%    96.77%
+----------------------
+Navi Bayes
+Confusion Matrix:
+263.0   108.0
+84.0   288.0
+Correct Ratio:   70.89%    77.42%
